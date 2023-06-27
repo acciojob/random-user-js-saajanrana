@@ -1,4 +1,3 @@
-//your code here
 const api = "https://randomuser.me/api/";
 
 const fullName = document.querySelector(".name");
